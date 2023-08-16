@@ -1,2 +1,2 @@
-const a = 50
-const b = 100
+const a = 80
+const b = 120
